@@ -1,17 +1,16 @@
 # electron-es6-webpack
 
 Simple starter electron app using:
- * webpack
- * bable
- * angular-material
- * ui-router
+  * webpack
+  * bable
+  * angular-material
+  * ui-router
 
- ## Install
- ```
- npm install
- ```
-
- ## Run
- ```
- electron .
- ```
+## Install
+```
+npm install
+```
+## Run
+```
+npm start
+```
