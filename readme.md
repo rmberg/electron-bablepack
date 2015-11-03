@@ -1,4 +1,4 @@
-# electron-es6-webpack
+# electron-bablepack
 
 Simple starter electron app using:
   * webpack
