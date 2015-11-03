@@ -1,5 +1,5 @@
 {
-  "name": "electron-es6-webpack",
+  "name": "electron-bablepack",
   "version": "0.0.0",
   "license": "MIT",
   "author": {
