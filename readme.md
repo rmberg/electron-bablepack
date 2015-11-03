@@ -3,6 +3,7 @@
 Simple starter electron app using:
   * webpack
   * bable
+  * angular
   * angular-material
   * ui-router
 
